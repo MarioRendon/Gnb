@@ -1,0 +1,16 @@
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Aplication.deps.json
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Aplication.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Aplication.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Cross.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Data.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Domain.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Cross.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Domain.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\bin\Debug\netcoreapp3.1\ProjectGNB.Data.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.csproj.CopyComplete
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Aplication\obj\Debug\netcoreapp3.1\ProjectGNB.Aplication.pdb

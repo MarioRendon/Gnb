@@ -1,0 +1,8 @@
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\bin\Debug\netcoreapp3.1\ProjectGNB.App.deps.json
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\bin\Debug\netcoreapp3.1\ProjectGNB.App.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\bin\Debug\netcoreapp3.1\ProjectGNB.App.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\obj\Debug\netcoreapp3.1\ProjectGNB.App.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\obj\Debug\netcoreapp3.1\ProjectGNB.App.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\obj\Debug\netcoreapp3.1\ProjectGNB.App.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\obj\Debug\netcoreapp3.1\ProjectGNB.App.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.App\obj\Debug\netcoreapp3.1\ProjectGNB.App.pdb

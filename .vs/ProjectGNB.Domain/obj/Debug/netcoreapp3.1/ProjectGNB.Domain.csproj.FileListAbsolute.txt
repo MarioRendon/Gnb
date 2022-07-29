@@ -1,0 +1,14 @@
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Domain.deps.json
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Domain.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Domain.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Cross.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Data.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Cross.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\bin\Debug\netcoreapp3.1\ProjectGNB.Data.pdb
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.csproj.CopyComplete
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.dll
+C:\Users\mario\OneDrive\Documentos\Mario\Nueva carpeta\PruebasTecnica\GNB\PojectGNB\ProjectGNB.Domain\obj\Debug\netcoreapp3.1\ProjectGNB.Domain.pdb

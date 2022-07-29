@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Domain\\ProjectGNB.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\ProjectGNB.Cross.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\ProjectGNB.Cross.csproj",
+        "projectName": "ProjectGNB.Cross",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\ProjectGNB.Cross.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\ProjectGNB.Data.csproj": {
+                "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\ProjectGNB.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.48, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\ProjectGNB.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\ProjectGNB.Data.csproj",
+        "projectName": "ProjectGNB.Data",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\ProjectGNB.Data.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Domain\\ProjectGNB.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Domain\\ProjectGNB.Domain.csproj",
+        "projectName": "ProjectGNB.Domain",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Domain\\ProjectGNB.Domain.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\ProjectGNB.Cross.csproj": {
+                "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Mario\\Nueva carpeta\\PruebasTecnica\\GNB\\repositorio\\.vs\\ProjectGNB.Cross\\ProjectGNB.Cross.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
